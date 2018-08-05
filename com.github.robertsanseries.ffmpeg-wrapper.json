@@ -1,0 +1,21 @@
+{
+    "app-id": "com.github.robertsanseries.ffmpeg-wrapper",
+    "name": "robertsanseries/ffmpeg-wrapper",
+    "description": "Vala wrapper around the FFmpeg command line tool",
+    "version": "1.0.0",
+    "author": "Robert San",
+    "type": "library",
+    "keywords": ["vala", "ffmpeg", "wrapper", "convert"],
+    "license": ["MIT"],
+    "sources": {
+       "type":"archive",
+       "url":"https://github.com/robertsanseries/ffmpeg-wrapper/archive/master.zip",
+       "sha256":"fbc8f621015248a0963b83438af5fbe916d2e79f55a9ecc4161a6b5da3e9964c"
+    },
+    "support": {
+        "issues": "https://github.com/robertsanseries/ffmpeg-wrapper/issues",
+        "source": "https://github.com/robertsanseries/ffmpeg-wrapper",
+        "docs": "https://github.com/robertsanseries/ffmpeg-wrapper"
+    },
+    "require": {}
+}
