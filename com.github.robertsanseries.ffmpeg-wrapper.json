@@ -1,6 +1,6 @@
 {
-    "app-id": "com.github.robertsanseries.ffmpeg-wrapper",
-    "name": "robertsanseries/ffmpeg-wrapper",
+    "app-id": "com.github.robertsanseries.ffmpeg-cli-wrapper",
+    "name": "robertsanseries/ffmpeg-cli-wrapper",
     "description": "Vala wrapper around the FFmpeg command line tool",
     "version": "1.0.0",
     "author": "Robert San",
@@ -9,13 +9,13 @@
     "license": ["MIT"],
     "sources": {
        "type":"archive",
-       "url":"https://github.com/robertsanseries/ffmpeg-wrapper/archive/master.zip",
-       "sha256":"fbc8f621015248a0963b83438af5fbe916d2e79f55a9ecc4161a6b5da3e9964c"
+       "url":"https://github.com/robertsanseries/ffmpeg-cli-wrapper/archive/master.zip",
+       "sha256":"d34824c5d9f035b92f878bd36d02146b473188bdcdb50f0d0c899a2a800be010"
     },
     "support": {
-        "issues": "https://github.com/robertsanseries/ffmpeg-wrapper/issues",
-        "source": "https://github.com/robertsanseries/ffmpeg-wrapper",
-        "docs": "https://github.com/robertsanseries/ffmpeg-wrapper"
+        "issues": "https://github.com/robertsanseries/ffmpeg-cli-wrapper/issues",
+        "source": "https://github.com/robertsanseries/ffmpeg-cli-wrapper",
+        "docs": "https://github.com/robertsanseries/ffmpeg-cli-wrapper"
     },
     "require": {}
 }
